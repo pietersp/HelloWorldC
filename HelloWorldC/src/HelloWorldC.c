@@ -14,6 +14,6 @@
 // Main method that gets executed on startup
 int main(void) {
 
-	puts("!!!Hello World!!!");
+	puts("Hello World 1 2 3");
 	return EXIT_SUCCESS;
 }
