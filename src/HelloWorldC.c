@@ -13,7 +13,6 @@
 
 // Main method that gets executed on startup
 int main(void) {
-	puts("1234567890");
 	puts("***********");
 	puts("Hello World");
 	puts("***********");
