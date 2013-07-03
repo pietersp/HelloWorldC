@@ -18,5 +18,7 @@ int main(void) {
 	puts("***********");
 	puts("Bye World");
 	puts("***********");
+	puts("Toodledoo");
+	puts("***********");
 	return EXIT_SUCCESS;
 }
